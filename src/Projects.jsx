@@ -71,7 +71,7 @@ const Projects = () => {
     },
     {
       name: "EasyBuy - ecommerce Website",
-      link: "#",
+      link: "https://github.com/shivamp9381/EasyBuy",
     },
     {
       name: "StudyHive - Discord like app for study rooms",
