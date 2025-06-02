@@ -15,7 +15,7 @@ const Navbar = () => {
   ];
 
   const resumeLink =
-    "https://drive.google.com/file/d/1hPSxbp1LKSkkQhApnEyolnEL-3HUROeu/view?usp=sharing";
+    "https://drive.google.com/file/d/1YMWu1bHqWDU-aj6QuIruEX-SKsa7bId7/view?usp=sharing";
 
   const toggleMenu = () => setMenuOpen(!menuOpen);
 
